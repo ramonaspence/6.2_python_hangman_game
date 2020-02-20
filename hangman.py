@@ -21,3 +21,4 @@ while health > 0 and '_' in dashes:
         health -= 1
         if health == 0:
             print('sorry! but you lost.')
+            
